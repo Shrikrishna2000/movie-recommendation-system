@@ -9,12 +9,11 @@ An intelligent movie recommender built with **collaborative filtering** and **NL
 1. [Features](#-features)
 2. [Tech Stack](#-tech-stack)
 3. [Getting Started](#-getting-started)
-4. [How It Works](#-how-it-works)
-5. [Example Output](#-example-output)
-6. [Project Structure](#-project-structure)
-7. [Deployment (AWS EC2 + Docker)](#-deployment-aws-ec2--docker)
-8. [Future Enhancements](#-future-enhancements)
-9. [Acknowledgments](#-acknowledgments)
+4. [Example Output](#-example-output)
+5. [Project Structure](#-project-structure)
+6. [Deployment (AWS EC2 + Docker)](#-deployment-aws-ec2--docker)
+7. [Future Enhancements](#-future-enhancements)
+8. [Acknowledgments](#-acknowledgments)
 
 ---
 
